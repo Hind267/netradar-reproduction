@@ -6,7 +6,7 @@ Douglas College course **CSIS 4450 – OS & Multimedia Cybersecurity**, Fall 202
 - **Student:** Hind Abu Alamrain (ID 300403234)
 - **Instructor:** Zhe Yang
 - **Track:** B — Top-Tier Security Paper Evaluation
-- **Original artifact:** Zenodo DOI 10.5281/zenodo.17582527
+- **Original artifact:** Zenodo DOI 10.5281/zenodo.17582526
 
 ## 1. What this project does
 NetRadar detects carpet-bombing DDoS attacks, which spread traffic thinly across
